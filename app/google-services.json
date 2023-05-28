@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "710198714624",
+    "firebase_url": "https://ujian-2021133002-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "ujian-2021133002",
+    "storage_bucket": "ujian-2021133002.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:710198714624:android:17c461f7daa11ab5c093e5",
+        "android_client_info": {
+          "package_name": "com.example.ujian_2021133002"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAv9mTYWjQNxIWo0v5M71C-SO4IhiBuang"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
