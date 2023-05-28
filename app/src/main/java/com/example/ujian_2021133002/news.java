@@ -20,7 +20,6 @@ public class news extends AppCompatActivity {
         BottomNavigationView bottomNavigationView=findViewById(R.id.bottom_navigation);
 
         // Set Home selected
-        bottomNavigationView.setSelectedItemId(R.id.news);
 
         // Perform item selected listener
         bottomNavigationView.setOnNavigationItemSelectedListener(new BottomNavigationView.OnNavigationItemSelectedListener() {
@@ -29,8 +28,6 @@ public class news extends AppCompatActivity {
 
                 switch(item.getItemId())
                 {
-                    case R.id.news:
-                        return true;
                     case R.id.main:
                         startActivity(new Intent(getApplicationContext(),MainActivity.class));
                         overridePendingTransition(0,0);

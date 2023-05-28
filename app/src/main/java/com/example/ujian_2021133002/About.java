@@ -42,10 +42,6 @@ public class About extends AppCompatActivity {
 
                 switch(item.getItemId())
                 {
-                    case R.id.news:
-                        startActivity(new Intent(getApplicationContext(),news.class));
-                        overridePendingTransition(0,0);
-                        return true;
                     case R.id.main:
                         startActivity(new Intent(getApplicationContext(),MainActivity.class));
                         overridePendingTransition(0,0);

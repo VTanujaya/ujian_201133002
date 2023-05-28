@@ -7,11 +7,6 @@
         android:icon="@drawable/main"/>
 
     <item
-        android:id="@+id/news"
-        android:title="News"
-        android:icon="@drawable/news"/>
-
-    <item
         android:id="@+id/publication"
         android:title="Publication"
         android:icon="@drawable/publication"/>
